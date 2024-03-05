@@ -24,7 +24,8 @@ This project is an online course selling website designed and developed using HT
 3. Open `index.html` in your web browser to view the website locally.
 
 ## Screenshots
-Include screenshots of the website here to showcase its design and features.
+![Homepage](screenshots/homepage.png)
+![Course Details](screenshots/course_details.png)
 
 ## Demo
 Check out the live demo [here](https://majestic-jalebi-6036a0.netlify.app/).
