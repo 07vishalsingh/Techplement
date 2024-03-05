@@ -24,8 +24,15 @@ This project is an online course selling website designed and developed using HT
 3. Open `index.html` in your web browser to view the website locally.
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
-![Course Details](screenshots/course_details.png)
+![Homepage](![image](https://github.com/07vishalsingh/techplement/assets/110535606/55bf3716-664d-413b-b7fe-6ad106a48843)
+)
+![Course Details](![image](https://github.com/07vishalsingh/techplement/assets/110535606/2d1d1158-6579-414e-9b60-a0c1fa0d72f7)
+)
+![Course Details](![Course Details](screenshots/course_details.png))
+![Course Details](![Course Details](screenshots/course_details.png))
+![Course Details](![Course Details](screenshots/course_details.png))
+![Course Details](![Course Details](screenshots/course_details.png))
+![Course Details](![Course Details](screenshots/course_details.png))
 
 ## Demo
 Check out the live demo [here](https://majestic-jalebi-6036a0.netlify.app/).
